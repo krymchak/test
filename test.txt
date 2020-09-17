@@ -1,2 +1,3 @@
 test
 newBranch
+change on newBranch to branch2
